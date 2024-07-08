@@ -2,7 +2,7 @@
 Plans, data and other documents on transport and mobility in Brazil
 
 <b> 
-Community list of publications, data and other useful information on transport in Brazil  :bike::bus::train:🌳🚊
+Community list of publications, data and other useful information on transport and mobility in Brazil  :bike::bus::train:🌳🚊
 </b><br><br>
 
 Have something to add or change? Contact: Armin.Wagner@giz.de
